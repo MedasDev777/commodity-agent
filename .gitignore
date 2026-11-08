@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+# Word-Sperrdatei beim Bearbeiten
+~$*.docx
